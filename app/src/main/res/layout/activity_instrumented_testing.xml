@@ -35,8 +35,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <Button
-        android:id="@+id/btnMul"
-        android:text="Mul"
+        android:id="@+id/btnDiv"
+        android:text="div"
         android:layout_margin="20sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
